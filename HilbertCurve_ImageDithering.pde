@@ -38,6 +38,7 @@ void draw() {
     counter = 0;
     noLoop();
   }
+  // Uncomment this line to save each frame incase you want to make it into a GIF or a video.
   // saveFrame("Images/###.png");
 }
 
